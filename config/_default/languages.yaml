@@ -1,0 +1,10 @@
+en:
+  languageCode: en
+  languageName: English
+  contentDir: content/en
+
+zh-TW:
+  languageCode: zh-TW
+  languageName: 繁體中文
+  contentDir: content/zh-TW
+  title: yIGF.TW
