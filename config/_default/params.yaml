@@ -1,6 +1,6 @@
 mainSections:
-  - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+- posts
+description: Youth Internet Governance Forum in Taiwan
 
 repoEditURL:
 
@@ -27,7 +27,7 @@ highlight:
     # highlight.js doesn't bundle every language. So please specify additional languages you want here.
     # See https://github.com/highlightjs/cdn-release/tree/main/build/languages for available languages.
     languages:
-      - dart
+    - dart
     # See https://github.com/highlightjs/cdn-release/tree/main/build/styles for available styles.
     style: base16/solarized-light
 
