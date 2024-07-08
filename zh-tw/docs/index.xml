@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on yIGF.TW</title><link>/zh-tw/docs/</link><description>Recent content in Docs on yIGF.TW</description><generator>Hugo -- gohugo.io</generator><language>zh-TW</language><copyright>&amp;copy; 2024 Youth Internet Governance Forum in Taiwan</copyright><lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/zh-tw/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>文章投稿指南</title><link>/zh-tw/docs/how-to-post-an-article/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>/zh-tw/docs/how-to-post-an-article/</guid><description>在這份文件中，你將了解投稿文章的相關資訊。
-接受的文章類別 必須與網路治理、科技法律或是相關公民政策有關連。
-流程 與我們聯絡：
-請先透過電子郵件與我們聯絡，並附上相關資訊。如：文章主旨、草稿及作者資訊等等。 提交 Markdown 格式：
-我們部落格採用的是 Hugo，請將文章格式以 Markdown 的格式寄給我們。 對於 Markdown 新手，推薦可以使用線上 Markdown 編輯器來撰寫。如：StackEdit、HackMD。 審核：
-我們將使用 GitHub 來進行版本控制，每一個新文章將會建立新的 PR (Pull Request)。 我們將提供一個連結，你可以在上面查閱 reviewer 的 feedback。 刊登：
-經過審核並批准後，我們將在網站上刊登你的文章。 疑問 若有任何問題，或是想與我們討論。請透過電子郵件 organizers at yigf.tw 與我們聯絡。</description></item></channel></rss>
