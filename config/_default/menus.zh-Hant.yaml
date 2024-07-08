@@ -1,0 +1,10 @@
+main:
+# - name: About
+#   url: '#about'
+#   weight: 1
+- name: 文章
+  url: /posts/
+  weight: 2
+- name: 文件
+  url: /docs/
+  weight: 3

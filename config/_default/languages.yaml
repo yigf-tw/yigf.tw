@@ -3,8 +3,8 @@ en:
   languageName: English
   contentDir: content/en
 
-zh-TW:
-  languageCode: zh-TW
+zh-Hant:
+  languageCode: zh-Hant
   languageName: 繁體中文
-  contentDir: content/zh-TW
+  contentDir: content/zh-Hant
   title: yIGF.TW
