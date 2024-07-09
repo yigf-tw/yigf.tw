@@ -15,9 +15,9 @@ colorScheme:
 style:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType: Person
-icon: images/icon.png
-publisherName: WANG Chucheng
+siteType: Organization
+icon:
+publisherName: Youth Internet Governance Forum in Taiwan
 publisherLogo:
 
 highlight:
