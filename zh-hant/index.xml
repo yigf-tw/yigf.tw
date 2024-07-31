@@ -2,7 +2,20 @@
 https://u-tokyo-ac-jp.zoom.us/j/87923755622?pwd=DneQtc0AM2ZODMClAykbY9UkWwNN2b.1
 ID: 879 2375 562
 Passcode: 022751
-若有任何問題，請隨時透過 organizers@yigf.tw 與我們聯絡。歡迎大家來參加！</description></item><item><title>HE.NET 網域被停止解析</title><link>/zh-hant/posts/he-net-abuse/</link><pubDate>Sun, 07 Jul 2024 00:00:00 +0800</pubDate><guid>/zh-hant/posts/he-net-abuse/</guid><description>前幾天適逢美國獨立日，許多企業也放假一天。
+若有任何問題，請隨時透過 organizers@yigf.tw 與我們聯絡。歡迎大家來參加！</description></item><item><title>yIGF.TW 第一次線上小聚：會後回顧</title><link>/zh-hant/posts/20240724-meeting/</link><pubDate>Wed, 24 Jul 2024 20:00:00 +0800</pubDate><guid>/zh-hant/posts/20240724-meeting/</guid><description>這次是 yIGF.TW 的第一次小聚，與會者有來自東京、新加坡、大專院校以及 TWIGF MSG 的青年，很高興這次能邀請大家一起交流討論！
+在這篇文章中，我們整理出幾個在這次的小聚的重點，分享給大家。
+台灣網路青年論壇 台灣網路青年論壇是早期的一個社群，隨著時間流逝已逐漸沒落。
+前管理員表示，這個社群由前 NII 來執行（陳文生，現任 TWIGF 常務監事），且該社群早期與治理無關，單純是公民自決（如：公共政策網路參與平臺）與網路論壇等。
+而後來，因為領域與職涯的關聯不高且時間的流逝，很多人最初靠著熱情默默的就沒有繼續發展下去了。
+俄烏戰爭對網路治理的衝突 在討論中，有不少青年提到俄烏戰爭所帶來的啟發。其中包括政府對立面、Internet Resource/ Domain 被要求收回即停止解析，以及 ICANN 因為蘇聯解體而收回 .su 網域等等。
+之後我們也會在 yIGF.TW 部落格中，詳細介紹這幾個主題。
+來自台大政治系的朋友表示，政治學與網路治理其實是對立面，其當初在接觸此領域時，花了不少時間適應。
+國際網路技術社群 時常參與 NOG 與其他技術社群的朋友，分享他從 RIPE NCC 以及 APNIC Conference 時接觸網路治理的。許多網路資源分配涉及政策討論，各個網路社群又有相對應的 Working Group。網路治理雖說是一個統稱，但其涉及的範圍非常廣，並且跟技術息息相關。
+人工智慧的誕生，也需要多方利害關係人共同討論，來決定是否約束或給予更大權力。
+因為學校課程而啟發 交大科法所、APIGA (Asia Pacific Internet Governance Academy)
+來自交大的朋友表示，是因為大學時修了一堂計算機網路概論開始對於網路有基礎認識，出於好奇參加了 NII 舉辦的 ICANN Workshop，就進入網路治理的世界。
+後來也有機會參加了在韓國舉辦的 APIGA (Asia Pacific Internet Governance Academy)，認識了網路治理各領域的領導者，也藉由這個機會更深入的了解 Internet Governance 的重要性。
+網路治理的圈子雖然小，但是資源豐富，尤其是各方面的專家們都很願意努力的將這個圈子擴張，會很樂意的分享並協助剛踏入這領域的人，讓他們感到溫暖而不陌生。</description></item><item><title>HE.NET 網域被停止解析</title><link>/zh-hant/posts/he-net-abuse/</link><pubDate>Sun, 07 Jul 2024 00:00:00 +0800</pubDate><guid>/zh-hant/posts/he-net-abuse/</guid><description>前幾天適逢美國獨立日，許多企業也放假一天。
 然而，就在這天，大型網路服務提供商 Hurricane Electric (HE, AS6939) 的網域名稱 HE.NET 被停止解析。這起事件在 NANOG (North American Network Operators&amp;rsquo; Group) 的 Mailing List 引起很大討論。
 事件起因 HE.NET 在 2024-07-04 時，其網域被全面停止解析。這次是由於網域註冊商 Network Solutions 將該網域名稱置於 &amp;ldquo;Client Hold&amp;rdquo; 狀態，同時 X 平台上也有人分享該事件。
 Public Service Announcement: Hurricane Electric’s bgp dot he dot net was unreachable for a bit. Looks like the fine folks over at @henet forgot to renew their domain and it expired. Oops! It’s now back; but, maybe still unreachable for a few because #DNS.</description></item><item><title>文章投稿指南</title><link>/zh-hant/docs/how-to-post-an-article/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>/zh-hant/docs/how-to-post-an-article/</guid><description>在這份文件中，你將了解投稿文章的相關資訊。
