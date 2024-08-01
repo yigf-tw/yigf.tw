@@ -1,6 +1,6 @@
 ---
 title: Tse Liang
-avatar: https://www.facebook.com/photo/?fbid=3254119134731666&set=a.107160169427594
+avatar: /images/profile/1b107673aad38296edcd9a08c2419673
 social:
   - icon: envelope
     iconPack: fas

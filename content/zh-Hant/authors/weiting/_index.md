@@ -1,6 +1,6 @@
 ---
 title: 洪瑋廷
-avatar: https://pbs.twimg.com/profile_images/1572896797194096640/Vroqu4by_400x400.jpg
+avatar: /images/profile/2f8dba3b3f944abcd4fee4ad862e81dd
 social:
   - icon: envelope
     iconPack: fas
