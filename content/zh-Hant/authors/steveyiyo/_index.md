@@ -1,6 +1,6 @@
 ---
 title: 游宗易
-avatar: https://static-a1.steveyi.net/media/yi/life/image06.jpg
+avatar: /images/profile/03d01d3d26b5730d205c4c4484ea515b
 social:
   - icon: envelope
     iconPack: fas
